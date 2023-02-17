@@ -1,0 +1,15 @@
+C:\Users\danie\source\repos\ProblemaGimnasio\ProblemaGimnasio\bin\Debug\net6.0\ProblemaGimnasio.exe
+C:\Users\danie\source\repos\ProblemaGimnasio\ProblemaGimnasio\bin\Debug\net6.0\ProblemaGimnasio.deps.json
+C:\Users\danie\source\repos\ProblemaGimnasio\ProblemaGimnasio\bin\Debug\net6.0\ProblemaGimnasio.runtimeconfig.json
+C:\Users\danie\source\repos\ProblemaGimnasio\ProblemaGimnasio\bin\Debug\net6.0\ProblemaGimnasio.dll
+C:\Users\danie\source\repos\ProblemaGimnasio\ProblemaGimnasio\bin\Debug\net6.0\ProblemaGimnasio.pdb
+C:\Users\danie\source\repos\ProblemaGimnasio\ProblemaGimnasio\obj\Debug\net6.0\ProblemaGimnasio.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\ProblemaGimnasio\ProblemaGimnasio\obj\Debug\net6.0\ProblemaGimnasio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\ProblemaGimnasio\ProblemaGimnasio\obj\Debug\net6.0\ProblemaGimnasio.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\ProblemaGimnasio\ProblemaGimnasio\obj\Debug\net6.0\ProblemaGimnasio.AssemblyInfo.cs
+C:\Users\danie\source\repos\ProblemaGimnasio\ProblemaGimnasio\obj\Debug\net6.0\ProblemaGimnasio.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\ProblemaGimnasio\ProblemaGimnasio\obj\Debug\net6.0\ProblemaGimnasio.dll
+C:\Users\danie\source\repos\ProblemaGimnasio\ProblemaGimnasio\obj\Debug\net6.0\refint\ProblemaGimnasio.dll
+C:\Users\danie\source\repos\ProblemaGimnasio\ProblemaGimnasio\obj\Debug\net6.0\ProblemaGimnasio.pdb
+C:\Users\danie\source\repos\ProblemaGimnasio\ProblemaGimnasio\obj\Debug\net6.0\ProblemaGimnasio.genruntimeconfig.cache
+C:\Users\danie\source\repos\ProblemaGimnasio\ProblemaGimnasio\obj\Debug\net6.0\ref\ProblemaGimnasio.dll
